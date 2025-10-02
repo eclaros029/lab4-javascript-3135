@@ -45,6 +45,20 @@ const albumCollection = [
         tracks: ['Vicious', 'Perfect Day', 'Walking on the Wild Side']
     }
 
+    , {
+        id: 2312,
+        title: 'Amry is alive',
+        artist: 'Franceses Reed',
+        tracks: ['Army', 'Perfect Denial', 'Walking on the Introverted Side']
+    }
+
+    , {
+        id: 4694,
+        title: 'Love is dead',
+        artist: 'Lou Lous',
+        tracks: ['Capitivating', 'Inducive', 'Wale']
+    }
+
 ];
 
 /**
